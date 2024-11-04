@@ -53,7 +53,7 @@ class MainActivity : ComponentActivity() {
 
 fun Birth(m: Modifier){
     var userName by remember { mutableStateOf("倪培睿")}
-    var userWeight by remember { mutableStateOf(3800)}
+    var userWeight by remember { mutableStateOf(3200)}
 
 
 
